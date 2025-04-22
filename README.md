@@ -47,14 +47,14 @@ Exibe o horário de abertura da academia, os dias da semana que abre, e emcima, 
 ### Menu de Avaliação Física
 Área destinada a exibir,e adicionar os alunos que pagaram $30 reais para exibir as informações físicas deles, e os treinos indicados para eles através dessa avaliação
 
-## Menu de Cadastro
+### Menu de Cadastro
 Onde vai ficar o cadastro dos alunos com o nome completo, CPF, telefone, plano que quer, data que o cliente escolhe para evencer o plano, contato de emergência e a data de início do plano. Também teria a informação dos funcionários, com o nome do funcionário, CPF, telefone e o cargo do funcionário tem.
 
-## Menu de Planos
+### Menu de Planos
  Destinadas a mostrar os planos que tem na academia, e criar o contrato do plano para enviar para o cliente.
 
- ## Menu de Financeiro
+ ### Menu de Financeiro
  Que vai ter incluso os dados das pessoas que pagaram o plano, as que não pagaram, quanto pagaram e se venceu o plano.
 
- ## Menu de Agenda
+ ### Menu de Agenda
  Calendário para informar os dias de funcionamento, se vai estar aberta ou fechada nos feriados.
